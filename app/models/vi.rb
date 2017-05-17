@@ -1,0 +1,2 @@
+class Vi < ApplicationRecord
+end
